@@ -21,3 +21,7 @@ Movie genre exploration
 Calculating ratings by genre
 Visualizing the number of ratings
 Conclusion
+
+# Analysis
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/59803099/158295273-4c1d0fb0-dbbd-4263-a064-4c8d87c8971e.png">
+
