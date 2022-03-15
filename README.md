@@ -2,6 +2,9 @@ Recommendation System for movies prediction based on users “rating” and “p
 
 A recommender system or a recommendation system is a subclass of information filtering system that seeks to predict the “rating” or “preference” a user would give to an item. They are primarily used in commercial applications
 
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/59803099/158295154-388a7dd3-457b-464b-a7b0-4647eb0456f5.png">
+
+
 There exist two main types of Recommender Systems:
 
 Collaborative Filtering— based on the assumption that people who agreed in the past will agree in the future, and that they will like similar kinds of items as they liked in the past
